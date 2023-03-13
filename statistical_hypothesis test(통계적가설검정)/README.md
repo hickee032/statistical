@@ -20,6 +20,9 @@
 
      “다르다”, “~와 차이가 있다”, “~의 효과는 있다”, “~와 다르다”가 됨
      자연적으로 발생할 확률이 낮은 쪽을 선택
+     
+![image](https://user-images.githubusercontent.com/114325862/224632829-99170344-4e79-48f0-a5ad-bb7aab6ed190.png)
+     
 
 # **오류**
 1종 오류 ( 더 심각한것 )
@@ -31,6 +34,8 @@
     ‘대립 가설이 참인데도 대립 가설을 기각하는 오류’
     효과가 있는 데 없다고 하는 것
 
+![image](https://user-images.githubusercontent.com/114325862/224632865-13b71581-fe5c-48f0-90a1-0c4317adbd3c.png)
+![image](https://user-images.githubusercontent.com/114325862/224632880-ef8c9bd4-fdc8-4638-864f-995046b19f5d.png)
 
 유의수준
 
@@ -41,7 +46,7 @@
 
     오차허용 범위가 5%로 일반적인 사회 통계학에서 많이 사용
 
-
+![image](https://user-images.githubusercontent.com/114325862/224633021-a9fe5ea2-0be9-4bc5-8a14-87014b21eb58.png)
 
 유의 확률 P-Value
 
@@ -53,6 +58,7 @@
 
 ◼︎ 유의확률 < 0.05: 대립 가설 채택
 
+![image](https://user-images.githubusercontent.com/114325862/224633057-c49ca4f4-4ac4-4edd-9cdc-33a868827051.png)
 
 신뢰구간과 신뢰수준
 
@@ -65,8 +71,10 @@
 신뢰수준
 
     참 값을 구하는 작업을 많이 반복했을 때 참 값이 특정 범위에 있는 비율
+    
+![image](https://user-images.githubusercontent.com/114325862/224633107-73c05460-5c3c-4a77-a269-80bff7bf6d6b.png)
 
-검정 방법 선택
+### 검정 방법 선택
 
 >기각역 임계
 
@@ -88,6 +96,9 @@
     모집단의 분산을 알고 있으면 z-검정 아니라면 t-검정
 
     대부분 t-검정으로 검증함 
+
+![image](https://user-images.githubusercontent.com/114325862/224633201-9b1aa416-2d82-442d-836d-85851358028d.png)
+![image](https://user-images.githubusercontent.com/114325862/224633213-c8cd16a6-b3a0-4cba-9774-a273773d7efe.png)
 
 
 
